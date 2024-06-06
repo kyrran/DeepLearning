@@ -1,4 +1,12 @@
 # DeepLearning
+
+## Coursework 1
+- Built and trained convolutional layers, max-pooling layers, and batch normalization layers from scratch using PyTorch.
+
+- Designed and optimized a simplified ResNet-18 models for high-dimensional classification tasks, achieving high accuracy on benchmark datasets.
+
+- Conducted thorough performance evaluations and visualizations of training progress, enhancing understanding of deep learning model behaviors.
+
 ## Coursework 2
 For this coursework, you are asked to implement two commonly used generative models:
 1. A Variational Autoencoder (VAE)
